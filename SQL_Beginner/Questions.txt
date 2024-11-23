@@ -1,0 +1,61 @@
+Easy to medium SQL quries
+
+Top Customers by Sales:
+Write a query to find the top 5 customers by total sales amount. Include the customer name and the total sales amount in the result.
+
+Monthly Sales Trend:
+Write a query to show the total sales amount for each month in the year 2003. The result should be sorted by month.
+
+Product Line Sales Distribution:
+Calculate the total sales amount for each product line. The result should include the product line and the total sales amount.
+
+High Value Orders:
+Identify the orders where the sales amount is greater than $5000. Include the order number, customer name, and sales amount in the result.
+
+Quarterly Sales Analysis:
+Write a query to calculate the total sales amount for each quarter in the year 2003. The result should include the quarter and the total sales amount.
+
+Customer Orders in Specific Region:
+Write a query to list all customers from the "EMEA" territory who placed orders in the year 2003. Include customer name, order number, and sales amount.
+
+Product Popularity:
+Determine the most ordered product (product with the highest total quantity ordered). Include the product code and total quantity ordered.
+
+Average Sales Price:
+Write a query to find the average sales price (sales/quantityordered) for each product line.
+
+Top Products by Revenue:
+Identify the top 3 products by total sales revenue. Include the product code and total sales revenue.
+
+Sales Growth:
+Calculate the percentage growth in total sales amount from the first quarter to the second quarter of 2003.
+
+Order Line Analysis:
+Write a query to find the average order line number for orders in the "Motorcycles" product line.
+
+Customer Deal Size:
+Identify the customers with "Large" deal sizes. Include customer name, total sales amount, and the number of orders placed.
+
+State-wise Sales:
+Write a query to show the total sales amount for each state in the USA. Include the state and total sales amount in the result.
+
+High MSRP Products:
+Find products with an MSRP greater than $100. Include the product code, product line, and MSRP in the result.
+
+Order Frequency by Month:
+Write a query to determine the number of orders placed in each month of the year 2003. Include the month and the number of orders in the result.
+
+Orders by Deal Size:
+Write a query to find the total sales amount for each deal size ("Small", "Medium", "Large"). Include the deal size and total sales amount.
+
+Average Order Value:
+Calculate the average order value (total sales/number of orders) for each customer.
+
+City-wise Customer Distribution:
+Write a query to find the number of customers in each city. Include the city and the number of customers.
+
+Contact Person Analysis:
+Write a query to find the total sales amount for each contact person. Include the contact person's first name, last name, and total sales amount.
+
+Monthly Sales Performance by Territory:
+Write a query to determine the total sales amount for each territory for each month of the year 2003. Include the month, territory, and total sales amount in the result.
