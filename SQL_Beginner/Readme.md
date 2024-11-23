@@ -22,8 +22,4 @@ You will also have access to sample datasets and query solutions to verify your 
 
 ---
 
-## **How to Use**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/SQL-Beginner-Practice.git
-   cd SQL-Beginner-Practice
+
